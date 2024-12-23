@@ -1,0 +1,25 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+kdbx_env/
+
+# IDE/Editor files
+.vscode/
+*.swp
+*.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Ignore sensitive files
+*.kdbx
